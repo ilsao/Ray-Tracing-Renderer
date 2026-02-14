@@ -1,0 +1,46 @@
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+Makefile
+
+# Compiled objects and binaries
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Debug symbols and profiles
+*.pdb
+*.dSYM/
+*.prof
+*.gcno
+*.gcda
+*.gcov
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Generated output images
+*.ppm
+*.png
+*.jpg
+*.jpeg
+
+# OS files
+.DS_Store
+Thumbs.db
