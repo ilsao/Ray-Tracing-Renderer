@@ -2,6 +2,8 @@
 
 A simple C++ ray tracing renderer implementation following [*Ray Tracing in One Weekend*](https://raytracing.github.io/books/RayTracingInOneWeekend.html).
 
+![](./image.jpg)
+
 ## Features
 
 - Material support for diffuse, metal, and dielectric (glass) spheres.
