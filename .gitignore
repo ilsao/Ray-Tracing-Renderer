@@ -37,9 +37,6 @@ Makefile
 
 # Generated output images
 *.ppm
-*.png
-*.jpg
-*.jpeg
 
 # OS files
 .DS_Store
